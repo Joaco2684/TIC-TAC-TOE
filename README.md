@@ -8,7 +8,7 @@
 - [Di Lorenzo Joaquín](https://github.com/Joaco2684)
 
 
-## Instrucciones para ejecutar el programa
+## Instrucciones para ejecutar el programa en Local
 
 Traer el repositorio de github a tu pc
 
